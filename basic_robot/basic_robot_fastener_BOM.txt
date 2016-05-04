@@ -1,0 +1,35 @@
+Basic Club Robot (version 2016) Fasteners BOM
+
+Quality     Description
+-------    --------------------------
+   2       M3-0.5x6mm flat head screws
+   2       4-40x3/8" screws
+   4       4-40x1/2" Nylon screws
+   2       4-40x3/4" screws
+  24       6-32x1/2" screws
+   9       6-32x3/4" screws
+   4       6-32x1"   screws
+   3       6-32x1-1/2" screws
+   4       6-32x1-1/2 Nylon screws
+   1       6-32x2-1/4" screws
+   4       8-32x1"   screws
+   
+   4       4-40 nuts
+  47       6-32 nuts
+   3       6-32 lock nuts
+   4       6-32 Nylon nuts
+   4       8-32 nuts
+   
+   8       #6 washers
+  
+  
+3D Printed Hubs
+
+Quality     Description
+-------    --------------------------
+   6       4-40x3/4" screws
+   4       6-32x5/16 set screws
+   
+   
+   
+      
